@@ -11,6 +11,8 @@
 
 This data analysis project aims to provide insights into the nigeria agro export performance over the past year. By analyzing various aspects of the export data, I seek to identify trends, make data-driven recommendation, and gain a deeper understanding of the country performance.
 
+![Agro_exports_excel_project](https://github.com/user-attachments/assets/9e3afe9c-ecb3-4de1-84b0-fa2591f2efc6)
+
 ### Data Sources
 
 Agro Export Data: The primary dataset used for this analysis is the "Agro Exprot.xlsx" file, containing detailed information about each export made by the country.

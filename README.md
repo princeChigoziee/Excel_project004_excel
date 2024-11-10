@@ -1,5 +1,5 @@
 # Nigeria Agro Export Analysis
-
+---
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -8,28 +8,28 @@
 - [Recommendations](#recommendations)
 
 ### Project Overview
-
+---
 This data analysis project aims to provide insights into the nigeria agro export performance over the past year. By analyzing various aspects of the export data, I seek to identify trends, make data-driven recommendation, and gain a deeper understanding of the country performance.
 
 ![Agro_exports_excel_project](https://github.com/user-attachments/assets/9e3afe9c-ecb3-4de1-84b0-fa2591f2efc6)
 
 ### Data Sources
-
+---
 Agro Export Data: The primary dataset used for this analysis is the "Agro Exprot.xlsx" file, containing detailed information about each export made by the country.
 
 ### Tools
-
+---
 - Excel - Data Cleaning, Data Analysis and Data Visualization [Download here](https://microsoft.com)
 
 ### Data Cleaning/Preparation
-
+---
 In the initial data preparation phase, i performed the following tasks:
 1. Data loading and Preparation.
 2. Handling missing values.
 3. Data cleaning and formatting.
 
 ### Exploratory Data Analysis (EDA)
-
+---
 - Total Units Sold by Product?
 - Which company exported the most units?
 - What percentage of the total units sold does each company contribute?
@@ -37,7 +37,7 @@ In the initial data preparation phase, i performed the following tasks:
 - What is the average unit price for each product exported? etc
 
 ### Results/Findings
-
+---
 The analysis results are summarized asa follows:
 1. The nigeria country's agro exports have been generating substantial revenue of $16.32B, with a healthy profit margin of 20.15%, indicating effective cost management and high demand. 
 2. Only 8 product is being exported Cocoa and Sesame lead the sales, with 76,129 and 76,132 units sold, respectively.
@@ -46,7 +46,7 @@ The analysis results are summarized asa follows:
 5. Italy is the leading contributor to the export market value, compare to other country of destination.
 
 ### Recommendations
-
+---
 potential focus product area should be ginger might have growth, either through increased production or exploring new markets
 Focusing on the lagos port improving efficiencies or expanding capacity that could have a significant impact.
 There should be market focus and export enhancement efforts on italy and also implement peoples segmentation strategy on other country.
